@@ -33,6 +33,13 @@ batmanAPI.py is a beginner-friendly Python application designed to simulate work
 - Return Batman quotes  
 
 
+## Future Ideas
+
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker
+
+  
 ## How It Works
 
 The app sends a request to a fictional API and displays results in the terminal.
